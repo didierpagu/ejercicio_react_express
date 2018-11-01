@@ -1,5 +1,5 @@
 
-/*Este componente muestra el saldo Total*/
+/*Este componente muestra el saldo Total */
 
 import React from 'react';
 import PropTypes from 'prop-types';

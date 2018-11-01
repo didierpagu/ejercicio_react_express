@@ -1,6 +1,6 @@
 
 /*Este componente dibuja la tabla y envia el saldo total al componente SaldoTotal ,
-tambien realiza el llamado al servidor HTTP donde se traen los datos a dibujar en la tabla*/
+tambien realiza el llamado al servidor HTTP donde se traen los datos a dibujar en la tabla */
 import React from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
